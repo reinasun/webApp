@@ -77,7 +77,7 @@ export default function Learning_Advertisement() {
                         </Text>
                     </Heading>
                     <Text color={"gray.500"}>
-                    Lorem ipsum dolor sit amet, consectetur ullamco laboris nisi ut aliquip ex ea commodoit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteucia deserunt mollit anim id est laborum.
+                    Join us on an exciting journey of Indexing with The Graph. Link all the pieces together with step by step guides, labs, videos, quizzes and more. Learn about The Graph protocol, the indexing stack, running an archive node, forms of revenue, indexing strategy, and all the basics to start.
                     </Text>
                     <Stack
                         spacing={{ base: 4, sm: 6 }}
